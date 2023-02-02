@@ -1,3 +1,12 @@
 body {
     margin: 0 auto;
+    color: red;
+}
+
+.content{
+    border: 1px solid black;
+}
+
+table {
+    color: red;
 }
